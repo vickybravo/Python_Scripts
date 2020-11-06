@@ -1,3 +1,2 @@
 # Python_Scripts
-My Scripts
-Search Strings Using Regex
+My Personal Scripts
